@@ -1,0 +1,6 @@
+[package]
+name = "logi-ui"
+version = "0.1.0"
+authors = ["theZorro266 <root@theZorro266.com>"]
+
+[dependencies]
